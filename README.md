@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocurrencies
 - 🌱 I’m currently learning php/yii2
 - 💞️ I’m looking to collaborate on nothing
-- 📫 You can reach me tg @junketsu
+- 📫 You can reach me by telegram @junketsu
 
 <!---
 i-derevyanko/i-derevyanko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
